@@ -1,0 +1,6 @@
+https://github.com/microsoft/WSL/issues/14205
+
+I have been uninstalling and reinstalling Ubuntu 24.04 using this `wsl --install -d Ubuntu-24.04`
+i have not had issues using that to get it installed. 
+
+I am still having networking issues inside the venv, however i'm getting the WSL settings GUI now. 
